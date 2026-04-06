@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Sensitive files - NEVER push these
+.env
+credentials.json
+token.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
